@@ -1,4 +1,4 @@
-// Exercise: Hello, wor
+// Exercise: Hello, world
 
 fn main() {
 println!("Hello, world!");
